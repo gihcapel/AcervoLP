@@ -1,0 +1,18 @@
+.pesquisar{
+	margin-left:230px;
+}
+
+ .pesquisacateg{	
+	padding:10px;
+}
+
+.pesquisapreco{
+	padding:10px;
+}
+
+.wall:target{
+	 display: block;
+}
+ul .titulo{
+    display:inline;
+}
